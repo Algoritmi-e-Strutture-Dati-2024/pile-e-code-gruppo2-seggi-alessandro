@@ -8,8 +8,8 @@ int main (){
 Pila<int> pila1;
 
 pila1.push(1);
-pila1.push(5);
-pila1.push(54);
+pila1.push(12);
+pila1.push(34);
 
 std::cout<<"Elemento alla posizione 1: "<< pila1.top() << std::endl;
 std::cout<<"Eliminazione elemento in cima alla lista " << std::endl;

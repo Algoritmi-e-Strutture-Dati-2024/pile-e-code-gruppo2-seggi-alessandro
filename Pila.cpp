@@ -1,15 +1,3 @@
-/*. Creazione della classe Pila
-La classe Pila deve rappresentare una struttura dati LIFO (Last In, First Out). 
-Utilizzare una implementazione con vettore o con liste puntate (è possibile riutilizzare la classe ListaPuntatori della scorsa lezione).
-
-Implementare i seguenti operatori di base:
-
-push(T elem) – Aggiunge un elemento alla pila.
-pop() – Rimuove l’elemento in cima alla pila e lo restituisce. Gestire eventuali errori (ad esempio, pila vuota).
-top() – Restituisce l’elemento in cima alla pila senza rimuoverlo.
-isEmpty() – Restituisce true se la pila è vuota, altrimenti false.
-size() – Restituisce il numero di elementi nella pila.*/
-
 #include<iostream>
 #include"ListaPuntatori.cpp"
 

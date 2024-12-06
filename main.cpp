@@ -1,4 +1,4 @@
-#include<iostream>>
+#include<iostream>
 #include"ListaPuntatori.cpp"
 #include"Pila.cpp"
 #include"Coda.cpp"
